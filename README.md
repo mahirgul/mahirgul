@@ -3,6 +3,10 @@
 
 - 📫 How to reach me : mahirgul@gmail.com
 - 📫 Whatsapp        : +905379902352
+- 📫 Telegram        : +905379902352
+- 📫 Signal          : +905379902352
+
+
 
 <!---
 mahirgul/mahirgul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
