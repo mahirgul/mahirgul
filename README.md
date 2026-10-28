@@ -4,6 +4,12 @@
 Telecom Specialist & Systems Engineer | Open-Source & VoIP Enthusiast
 ```
 
+<p align="left">
+  <a href="https://github.com/sponsors/mahirgul">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub">
+  </a>
+</p>
+
 - 🔭 **Expertise:** 20+ years of enterprise PBX support & VoIP infrastructure engineering.
 - 📞 **NEC Enterprise PBX Systems:** 
   - Comprehensive deployment, integration, and L3 support across:
@@ -26,6 +32,18 @@ Telecom Specialist & Systems Engineer | Open-Source & VoIP Enthusiast
 - 💬 **WhatsApp:** [+90 537 990 23 52](https://wa.me/905379902352)
 - ✈️ **Telegram:** [+90 537 990 23 52](https://t.me/+905379902352)
 - 🔒 **Signal:** +90 537 990 23 52
+
+---
+
+### 💖 Support My Open-Source Work
+
+If you find **[AiPBX](https://github.com/mahirgul/AiPBX)**, **[nssm-rs](https://github.com/mahirgul/nssm-rs)**, or my VoIP tooling useful, consider sponsoring my ongoing maintenance and development:
+
+<p align="left">
+  <a href="https://github.com/sponsors/mahirgul">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub">
+  </a>
+</p>
 
 ---
 
