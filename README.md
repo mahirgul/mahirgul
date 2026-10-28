@@ -26,6 +26,15 @@ Telecom Specialist & Systems Engineer | Open-Source & VoIP Enthusiast
 - ✈️ **Telegram:** [+90 537 990 23 52](https://t.me/+905379902352)
 - 🔒 **Signal:** +90 537 990 23 52
 
+---
+
+### ☁️ Cloud Infrastructure Partner
+
+[![UpCloud](https://img.shields.io/badge/UpCloud-$250_Free_Credit-7b1fa2?style=for-the-badge&logo=cloud&logoColor=white)](https://signup.upcloud.com/?promo=affiliate-aipbx250&amp;utm_source=aipbx&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-aipbx250)
+
+- 🚀 Deploy [AiPBX](https://github.com/mahirgul/AiPBX), VoIP PBXs, and Linux services on **[UpCloud](https://signup.upcloud.com/?promo=affiliate-aipbx250&amp;utm_source=aipbx&amp;utm_medium=affiliate&amp;utm_campaign=affiliate-aipbx250)** with high-speed MaxIOPS block storage.
+- 🎁 Use promo code **`affiliate-aipbx250`** to claim **$250 in free cloud credits** upon signup!
+
 <!---
 mahirgul/mahirgul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
