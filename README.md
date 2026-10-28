@@ -21,6 +21,7 @@ Telecom Specialist & Systems Engineer | Open-Source & VoIP Enthusiast
 
 ### 📬 Connect with Me
 
+- 💼 **LinkedIn:** [linkedin.com/in/mhrgl](https://www.linkedin.com/in/mhrgl/)
 - ✉️ **Email:** [mahirgul@gmail.com](mailto:mahirgul@gmail.com)
 - 💬 **WhatsApp:** [+90 537 990 23 52](https://wa.me/905379902352)
 - ✈️ **Telegram:** [+90 537 990 23 52](https://t.me/+905379902352)
